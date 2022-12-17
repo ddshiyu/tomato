@@ -14,5 +14,6 @@
   "compilerOptions": {
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
+    "isolatedModules": false
   }
 }
