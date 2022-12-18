@@ -2,6 +2,7 @@
   "name": "tomato",
   "version": "0.0.0",
   "private": true,
+  "homepage": "https://ddshiyu.github.io/tomato",
   "scripts": {
     "dev": "vite",
     "build": "run-p type-check build-only",
